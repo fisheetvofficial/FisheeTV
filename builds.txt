@@ -1,6 +1,6 @@
 id="plugin.program.ftvwizard"
 version="4.0.0"
-zip="https://github.com/fisheetvofficial/FisheeTV/blob/master/plugin.program.ftvwizard-4.0.0.zip"
+zip="https://raw.githubusercontent.com/fisheetvofficial/FisheeTV/master/plugin.program.ftvwizard-4.0.0.zip"
 
 name="FisheeTV (GRid) - Windows"
 version="4.0r431"
