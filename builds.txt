@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/fisheetvofficial/FisheeTV/master/plugin.p
 
 name="FisheeTV (GRid) - Windows"
 version="4.0r431"
-url="https://uptobox.com/cyp6hg0ls1a9"
+url="http://uptobox.com/cyp6hg0ls1a9"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -18,7 +18,7 @@ description="This is the official FisheeTV Build for Windows x86 and x64 platfor
 
 name="FisheeTV (GRid) - Android (all platforms)"
 version="4.0r431"
-url=""
+url="http://uptobox.com/rkobybawkxy5"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -32,7 +32,7 @@ description="This is the official FisheeTV Build for Android Arm, Arm64, x86 and
 
 name="FisheeTV (GRid) - Linux (all platforms)"
 version="4.0r431"
-url="https://uptobox.com/yze56ql5eqq1"
+url="http://uptobox.com/yze56ql5eqq1"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -46,7 +46,7 @@ description="This is the official FisheeTV Build for Linus Arm64, Arm6, Arm7, x8
 
 name="FisheeTV - Themes Installer"
 version="4.0"
-url="https://uptobox.com/mrdaso5zy940"
+url="http://uptobox.com/mrdaso5zy940"
 minor="http://"
 gui="http://"
 kodi="18.5"
