@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/fisheetvofficial/FisheeTV/master/plugin.p
 
 name="FisheeTV for Windows"
 version="4.0r431"
-url="https://uptobox.com/cyp6hg0ls1a9"
+url="https://drive.google.com/uc?id=1T6Jc_Jb6accOfx1gZ7wjfSS7qS_p772z&export=download"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -18,7 +18,7 @@ description="This is the official FisheeTV Build for Windows x86 and x64 platfor
 
 name="FisheeTV for Android (all platforms)"
 version="4.0r431"
-url="https://uptobox.com/rkobybawkxy5"
+url="https://drive.google.com/uc?id=1fCQeNAzMGXIXFeNLLZjTYoskgbH-Q7On&export=download"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -32,7 +32,7 @@ description="This is the official FisheeTV Build for Android Arm, Arm64, x86 and
 
 name="FisheeTV for Linux (all platforms)"
 version="4.0r431"
-url="https://uptobox.com/yze56ql5eqq1"
+url="https://drive.google.com/uc?id=103-6pRVUQfabse1F2ydXIXiz6zLoXNv1&export=download"
 minor="http://"
 gui="http://"
 kodi="18.5"
@@ -44,9 +44,9 @@ adult="no"
 info="http://"
 description="This is the official FisheeTV Build for Linus Arm64, Arm6, Arm7, x86 and x64 platforms."
 
-name="FisheeTV Themes Installer"
+name="FisheeTV Themes Installer (optional)"
 version="4.0"
-url="https://uptobox.com/mrdaso5zy940"
+url="https://drive.google.com/uc?id=1z9AwCqk1BKaMT6j84_CsRYteLEypN51_&export=download"
 minor="http://"
 gui="http://"
 kodi="18.5"
