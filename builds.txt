@@ -1,6 +1,6 @@
 id="plugin.program.ftvwizard"
-version="4.0.0"
-zip="https://raw.githubusercontent.com/fisheetvofficial/FisheeTV/master/plugin.program.ftvwizard-4.0.0.zip"
+version="4.1.0"
+zip="https://raw.githubusercontent.com/fisheetvofficial/FisheeTV/master/plugin.program.ftvwizard-4.1.0.zip"
 
 name="FisheeTV for Kodi 18"
 version="4.3.1"
